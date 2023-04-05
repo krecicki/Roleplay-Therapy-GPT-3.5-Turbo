@@ -30,3 +30,55 @@ The script will initiate a conversation between two actors, simulating a therape
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Example chat between Sigmund Freud and Carl Jung talking about a boys love for his mother.
+Roleplaying Carl Jung and Sigmund Freud discussing Discuss a boys love of his mother. (GPT-3.5-Turbo)
+
+(expand the Tweet to see the conversation)
+
+I wrote a script in python to have GPT talk to itself but by role playing two different characters.
+
+The Conversation
+Carl Jung: A boy's love for his mother is a natural and healthy part of development, but if it becomes excessive or possessive it may indicate deeper psychological issues.
+
+Sigmund Freud: However, it is important to distinguish between a natural attachment to one's mother and a pathological fixation caused by unconscious conflicts.
+
+Carl Jung: Our discussion leads us to acknowledge the importance of the unconscious in shaping a boy's love for his mother.
+
+Sigmund Freud: The unconscious plays a significant role in shaping a boy's love for his mother.
+
+Carl Jung: It is important to consider the father's role in the development of the child's psyche.
+
+Sigmund Freud: Indeed, the child's psyche is influenced by a variety of factors, including early experiences with their parents.
+
+Carl Jung: However, it is important to consider the individual's unique experiences and subconscious desires in regards to their relationships with their parents.
+
+Sigmund Freud: The boy's love for his mother could potentially lead to unresolved conflicts with his father.
+
+Carl Jung: However, it is important to also consider the individual's personal experiences and unconscious motivations when exploring a boy's love for his mother.
+
+Sigmund Freud: Yes, the boy's love for his mother may be influenced by his early childhood experiences with her.
+
+Carl Jung: Yes, a boy's love for his mother can have a significant impact on his future relationships with women.
+
+Sigmund Freud: The Oedipus complex refers to a child's unconscious desire to replace their same-sex parent and possess the opposite-sex parent.
+
+Carl Jung: However, it is important to note that a boy's love for his mother is a natural and necessary stage of development, and it is the resolution of the Oedipus complex that leads to a healthy development of relationships with both parents.
+
+Sigmund Freud: I agree, unresolved attachment to both parents can lead to unhealthy relationships.
+Carl Jung: This impact can manifest in how the son views and interacts with his romantic partners in adulthood.
+
+Sigmund Freud: The way a man interacts with his romantic partners in adulthood can be influenced by his early experiences with his mother.
+
+Carl Jung: The Oedipus complex is a concept proposed by Freud to explain the natural development of male children's sexual attraction to their mothers and rivalries with their fathers.
+
+Sigmund Freud: The Oedipal complex suggests boys may have unconscious sexual desires towards their mothers and see their fathers as a rival.
+
+Carl Jung: The child may also develop an unconscious desire to replace their father as the object of their mother's love.
+
+Sigmund Freud: Sometimes a boy may desire to replace his father as the object of his mother's love, as part of the Oedipus complex.
+
+Carl Jung: The Oedipus complex is a controversial theory, and some argue that it may not be applicable to all individuals.
+
+Sigmund Freud: Although, it is still considered an important concept in psychoanalytic theory.
+
